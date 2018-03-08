@@ -1,6 +1,10 @@
 # CTF-X55
 Simple XSS challenge
 
+Try it here: http://adaxesoet.avlidienbrunn.se/?img=https://i.imgur.com/b5Pb4BN.gif
+
+Write-ups: https://swehack.org/viewtopic.php?f=37&t=4508
+
 ```
 <?php
 	$img = $_GET["img"];
